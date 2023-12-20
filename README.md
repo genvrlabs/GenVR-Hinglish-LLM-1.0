@@ -63,3 +63,12 @@ https://drive.google.com/drive/folders/1Fy6Ba1OCcyeexmBAoKMV3xtTWXy5ryWu?usp=sha
 
 Please run: pip install -r requirements.txt
 to install all dependencies.
+***************************************************************************************
+Here is a demo video, comparing our work with AI4Bharat-IndicTrans2
+
+https://www.youtube.com/watch?v=wxDQSEZIqfo
+
+Published by Tech News.
+
+Strengths of GenVR-Hindi-LLM v1.0:-  The translated text more commonly resonates with local speakers who tend to use a hinglish kind of dialect.
+Weaknesses of GenVR-Hindi-LLM v1.0:- The translated text has some halucinations.
