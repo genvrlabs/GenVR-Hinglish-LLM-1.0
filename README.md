@@ -57,9 +57,10 @@ To run this, you would need a token from huggingface for Llama2, as this is base
 
 https://huggingface.co/blog/llama2
 
-And model weights which can be downloaded from below drive link and have to be put in the same directory as rest of the repo :
+And model weights which can be downloaded from below drive link and have to be put in the same directory as rest of the repo (for English to Hinglish trans) : https://drive.google.com/drive/folders/1Fy6Ba1OCcyeexmBAoKMV3xtTWXy5ryWu?usp=sharing
 
-https://drive.google.com/drive/folders/1Fy6Ba1OCcyeexmBAoKMV3xtTWXy5ryWu?usp=sharing
+For Hingligh to English tans, please use models in below link:
+https://dev.azure.com/GenVR-Research/_git/GenVR-Hinglish-LLM_H2E
 
 Please run: pip install -r requirements.txt
 to install all dependencies.
